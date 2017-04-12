@@ -1,7 +1,7 @@
 
 title: Dev Paulo Pinto
 url: 'http://pp.eti.br'
-baseurl: '/' #change it according to your repository name
+baseurl: 'http://pp.eti.br' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
