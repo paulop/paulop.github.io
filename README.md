@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
 
-You can use the [editor on GitHub](https://github.com/paulop/paulop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have made this into a Jekyll Theme.
+**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
 
-### Markdown
+The default theme would look like this
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
 
-```markdown
-Syntax highlighted code block
+The theme is responsive
 
-# Header 1
-## Header 2
-### Header 3
+![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
-- Bulleted
-- List
+There are 6 color schemes available
 
-1. Numbered
-2. List
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png)
 
-**Bold** and _Italic_ and `Code` text
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/online-cv/
 
-[Link](url) and ![Image](src)
-```
+[Watch my video on instlallation](https://www.youtube.com/embed/T2nx6tj-ZH4)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulop/paulop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
