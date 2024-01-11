@@ -1,5 +1,5 @@
 
-title: Dev Paulo Pinto
+title: Paulo Programador
 url: 'https://pp.eti.br'
 baseurl: 'https://pp.eti.br' #change it according to your repository name
 
@@ -13,7 +13,7 @@ baseurl: 'https://pp.eti.br' #change it according to your repository name
 
 
 #Profile information
-name: Paulo Pinto
+name: Paulo Programador
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
