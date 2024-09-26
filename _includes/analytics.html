@@ -8,15 +8,16 @@
   gtag('config', 'G-PM8821WX4M');
 </script>
 <script>
-const typebotInitScript = document.createElement("script");
-typebotInitScript.type = "module";
-typebotInitScript.innerHTML = `import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0.2.85/dist/web.js'
+		const typebotInitScript = document.createElement("script");
+		typebotInitScript.type = "module";
+		typebotInitScript.innerHTML =
+		`import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0.2.85/dist/web.js'; 
 
-Typebot.initPopup({
-  typebot: "gera-o-de-leads-pp-eti-br-q89ytv4",
-  apiHost: "https://tbchat.dourasoft.com.br",
-  autoShowDelay: 3000,
-});
-`;
-document.body.append(typebotInitScript);
+			Typebot.initPopup({
+			  typebot: "gera-o-de-leads-pp-eti-br-q89ytv4",
+			  apiHost: "https://tbchat.dourasoft.com.br",
+			  autoShowDelay: 3000,
+			});
+		`;
+		document.body.append(typebotInitScript);
 </script>
